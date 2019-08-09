@@ -24,6 +24,18 @@
 - 前一步：可以回调查看操作的前一步树的结构。
 - 后一步：在回调中查看操作的下一步结果。
 
+插入
+
+![insert](https://media.giphy.com/media/h5i0a624X2AmwQMfMZ/giphy.gif)
+
+删除
+
+![del](https://media.giphy.com/media/eJF2WOmSQxrTsOx7WC/giphy.gif)
+
+查询
+
+![find](https://media.giphy.com/media/fwK5wwDM8ojOeQdpQl/giphy.gif)
+
 
  
 ### 综合应用设计说明
@@ -68,6 +80,19 @@
     - 换乘输出：点击循迹按钮之后，此处会显示换乘的方式。
     - 退出程序：点击该按钮会退出程序。
     - 游戏世界：点击任意位置小球会从当前位置前往点击位置，在点击循迹按钮之后小球会自动沿着最短路径前进。
+
+
+视角转换
+
+![rotate](https://media.giphy.com/media/VDBegeubEb0rMxlyVJ/giphy.gif)
+
+输入
+
+![enter](https://media.giphy.com/media/cPNWLoXm2oljS7m30f/giphy.gif)
+
+循迹
+
+![enter](https://media.giphy.com/media/l3JEGaccyhW3m1OW68/giphy.gif)
 
  
 第四部分 参考文献
